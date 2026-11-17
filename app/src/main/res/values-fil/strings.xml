@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BorrowBox</string>
+    <string name="welcome">Maligayang pagdating sa BorrowBox</string>
+    <string name="sign_in">Mag-sign In</string>
+    <string name="register">Mag-rehistro</string>
+    <string name="create_account">Lumikha ng Account</string>
+    <string name="full_name">Buong Pangalan</string>
+    <string name="username">Username</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Kumpirmahin ang Password</string>
+    <string name="home">Tahanan</string>
+    <string name="history">Kasaysayan</string>
+    <string name="stats">Istadistika</string>
+    <string name="admin">Admin</string>
+    <string name="settings">Mga Setting</string>
+    <string name="borrowers">Mga Nanghihiram</string>
+    <string name="new_borrowing">Bagong Hiram</string>
+    <string name="edit_borrowing">Baguhin ang Hiram</string>
+    <string name="save">I-save</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="delete">Burahin</string>
+    <string name="mark_returned">I-marka bilang Naibalik</string>
+    <string name="archive">I-archive</string>
+    <string name="restore">I-restore</string>
+    <string name="borrow_again">Hiramin Ulit</string>
+    <string name="add_to_calendar">Idagdag sa Kalendaryo</string>
+    <string name="admin_dashboard">Dashboard ng Admin</string>
+    <string name="logout">Mag-sign Out</string>
+</resources>
